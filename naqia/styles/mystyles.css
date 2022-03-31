@@ -1,0 +1,46 @@
+.header{
+    background-color: rgba(197, 94, 20, 0.521);
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+}
+ nav .head1{
+    padding: 15px;
+    position: absolute;
+}
+.para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkred;
+}
+#para1{
+    background-color: cadetblue;
+    padding: 10px 15px;
+}
+
+#para2{
+    background-color: goldenrod;
+    padding: 25px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#btn{
+    color: blue;
+    background-color: violet;
+    border-radius: 20px;
+    font-size: 25px;
+    border: 5px;
+    box-shadow: 2px 5px gray;
+}
+.footer
+{
+    background-color: aquamarine;
+    height: 200px;
+    width: 98%;
+    display: flex;
+    padding: 20px 20px;
+    justify-content: center;
+}
+
+.section{
+    color: black;
+}
