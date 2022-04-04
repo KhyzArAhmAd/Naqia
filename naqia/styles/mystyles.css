@@ -31,16 +31,4 @@
     border: 5px;
     box-shadow: 2px 5px gray;
 }
-.footer
-{
-    background-color: aquamarine;
-    height: 200px;
-    width: 98%;
-    display: flex;
-    padding: 20px 20px;
-    justify-content: center;
-}
 
-.section{
-    color: black;
-}
